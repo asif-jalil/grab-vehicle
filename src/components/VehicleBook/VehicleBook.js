@@ -6,6 +6,7 @@ import { useParams } from "react-router";
 import "./VehicleBook.css";
 import fakeData from "../../fakeData/data.json";
 import VehicleInfo from "../VehicleInfo/VehicleInfo";
+import GoogleMap from "../GoogleMap/GoogleMap";
 
 const VehicleBook = () => {
   const { vName } = useParams();
@@ -87,8 +88,10 @@ const VehicleBook = () => {
               </Card.Body>
             </Card>
           </Col>
-          <Col xl={9} lg={7} md={6}>
-            <div className="map"></div>
+          <Col xl={8} lg={7} md={6}>
+            <div className="map">
+              <GoogleMap />
+            </div>
           </Col>
         </Row>
       </Container>
