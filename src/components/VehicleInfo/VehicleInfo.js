@@ -1,6 +1,6 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import React from "react";
-import "./VahicleInfo.css";
+import "./VehicleInfo.css";
 
 const VehicleInfo = ({ vehicle }) => {
   return (
