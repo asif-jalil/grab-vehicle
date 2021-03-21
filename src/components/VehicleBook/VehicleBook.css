@@ -1,0 +1,58 @@
+.vehicle-book {
+  padding-top: 80px;
+}
+
+.location-tree-wrap {
+  background: #ff5650;
+  padding: 20px;
+  border-radius: 12px;
+  -webkit-border-radius: 12px;
+  -moz-border-radius: 12px;
+  -ms-border-radius: 12px;
+  -o-border-radius: 12px;
+  margin-bottom: 20px;
+}
+
+.location-tree {
+  position: relative;
+}
+
+.location-tree::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 2px;
+  height: 100%;
+  background: #fff;
+}
+
+.location-tree h6 {
+  color: #fff;
+  position: relative;
+  padding-left: 20px;
+  margin-bottom: 25px;
+}
+
+.location-tree h6::before {
+  content: '';
+  position: absolute;
+  left: -3px;
+  top: 5px;
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: #fff;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+
+.location-tree h6:last-child {
+  margin-bottom: 0;
+}
+
+.map {
+  max-height: 500px;
+}

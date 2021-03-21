@@ -1,0 +1,63 @@
+.login-area {
+  padding-top: 80px;
+  padding-bottom: 50px;
+}
+
+/* .login-container {
+  max-width: 500px;
+  margin: 0 auto;
+} */
+
+.login-form-wrapper {
+  border: 1px solid #ddd;
+  padding: 20px 30px;
+}
+
+.log-reg-form .not-valid {
+  font-size: 13px;
+}
+
+.log-reg-switch span {
+  color: #ff5650;
+  cursor: pointer;
+}
+
+.login-divider {
+  margin-top: 30px;
+  margin-bottom: 20px;
+  text-align: center;
+  position: relative;
+}
+
+.login-divider::before {
+  content: '';
+  position: absolute;
+  top: 10px;
+  left: 0px;
+  right: 0px;
+  margin: 0 auto;
+  width: 80%;
+  height: 1px;
+  background: #ddd;
+  z-index: -1;
+}
+
+.login-divider span {
+  display: inline-block;
+  background: #fff;
+  padding: 0 5px;
+}
+
+.social-login {
+  text-align: center;
+
+}
+
+.social-login button {
+  margin: 0 10px;
+  padding: 0;
+}
+
+.social-login img {
+  width: 40px
+}

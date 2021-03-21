@@ -1,0 +1,81 @@
+{
+  "bike": [{
+      "id": 1,
+      "name": "Terazosin",
+      "seat": 1,
+      "price": "$44.23",
+      "img": "https://i.ibb.co/Jt8wXhk/Big-isolated-Motorcycle-vector-colorful-icons-set-flat-illustrations-of-various-type-motorcycles.jpg"
+    },
+    {
+      "id": 2,
+      "name": "BENZOYL",
+      "seat": 1,
+      "price": "$88.46",
+      "img": "https://i.ibb.co/YjjWZ7f/Big-isolated-Motorcycle-vector-colorful-icons-set-flat-illustrations-of-various-type-motorcycles.jpg"
+    },
+    {
+      "id": 3,
+      "name": "CYBERWHITE",
+      "seat": 1,
+      "price": "$19.47",
+      "img": "https://i.ibb.co/mDHLf2S/Big-isolated-Motorcycle-vector-colorful-icons-set-flat-illustrations-of-various-type-motorcycles.jpg"
+    }
+  ],
+  "car": [{
+    "id": 4,
+    "name": "Alprazolam",
+    "seat": 4,
+    "price": "$33.50",
+    "img": "https://i.ibb.co/7Q9GX34/set-of-different-cars-illustration.jpg"
+  }, {
+    "id": 5,
+    "name": "RECKEWEG R76",
+    "seat": 6,
+    "price": "$70.93",
+    "img": "https://i.ibb.co/hdCXMBD/set-of-different-cars-illustration.jpg"
+  }, {
+    "id": 6,
+    "name": "Doxazosin",
+    "seat": 4,
+    "price": "$36.36",
+    "img": "https://i.ibb.co/ynRQMCW/set-of-different-cars-illustration.jpg"
+  }],
+  "bus": [{
+    "id": 7,
+    "name": "Pear",
+    "seat": 1,
+    "price": "$47.29",
+    "img": "https://i.ibb.co/Xb7BjHz/Realistic-set-with-school-bus-modern-urban-and-touristic-transport-london-double-decker-vehicle-isol.jpg"
+  }, {
+    "id": 8,
+    "name": "Quinapril",
+    "seat": 1,
+    "price": "$81.83",
+    "img": "https://i.ibb.co/hFhyMTX/Realistic-set-with-school-bus-modern-urban-and-touristic-transport-london-double-decker-vehicle-isol.jpg"
+  }, {
+    "id": 9,
+    "name": "HYDROXYZINE",
+    "seat": 1,
+    "price": "$69.29",
+    "img": "https://i.ibb.co/sWtqc4y/Realistic-set-with-school-bus-modern-urban-and-touristic-transport-london-double-decker-vehicle-isol.jpg"
+  }],
+  "train": [{
+    "id": 10,
+    "name": "Meloxicam",
+    "seat": 1,
+    "price": "$16.74",
+    "img": "https://i.ibb.co/3dVCfTz/Different-trains-set-Locomotive-passenger-carriage-freight-wagon-tank-car-commuter-rail-Vector-illus.jpg"
+  }, {
+    "id": 11,
+    "name": "Amlodipine",
+    "seat": 1,
+    "price": "$26.01",
+    "img": "https://i.ibb.co/jvJQ0LP/Different-trains-set-Locomotive-passenger-carriage-freight-wagon-tank-car-commuter-rail-Vector-illus.jpg"
+  }, {
+    "id": 12,
+    "name": "Oxygen",
+    "seat": 1,
+    "price": "$29.89",
+    "img": "https://i.ibb.co/0rjb09w/Different-trains-set-Locomotive-passenger-carriage-freight-wagon-tank-car-commuter-rail-Vector-illus.jpg"
+  }]
+}

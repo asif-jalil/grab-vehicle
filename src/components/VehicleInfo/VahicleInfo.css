@@ -1,0 +1,41 @@
+.single-search {
+  background: #fff;
+  border-radius: 12px;
+  padding: 10px 20px;
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  -webkit-border-radius: 12px;
+  -moz-border-radius: 12px;
+  -ms-border-radius: 12px;
+  -o-border-radius: 12px;
+}
+
+.single-search:last-child {
+  margin-bottom: 0;
+}
+
+.search-img img {
+  width: 90px;
+}
+
+.search-details {
+  width: 50%;
+  text-align: center;
+}
+
+.search-details h6 {
+  font-size: 14px;
+}
+
+.search-details span {
+  font-size: 14px;
+  font-weight: 600;
+  margin: 0 10px;
+}
+
+.booking-cost span {
+  font-size: 16px;
+  font-weight: 600;
+}
